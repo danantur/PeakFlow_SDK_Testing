@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">PeakFlow_SDK_Testing</string>
+    <string name="TXT_CALIBRATING">Calibrating…</string>
+    <string name="TXT_MEASURING">Measuring.</string>
+    <string name="TXT_PEAK_FLOW_NOT_MEASURED">--- l/min</string>
+    <string name="TXT_READY_FOR_NEXT_BLOW">Ready for the next blow.</string>
+    <string name="TXT_WAITING_FOR_PEAKS">Calibration finished. Waiting for peaks..</string>
+    <string name="TXT_WAIT_UNTIL_FAN_STOPS">Please wait until the fan stops rotating.</string>
+    <string name="TXT_NOT_CONNECTED_YET">Please connect the device before measuring.</string>
+    <string name="TXT_NOT_CONNECTED">Connect the device via mini-jack or bluetooth to start measuring.</string>
+    <string name="TXT_CONNECTED">Ready to start.</string>
+    <string name="TXT_MEASURED">Analyze finished.</string>
+    <string name="TXT_">Analyze finished.</string>
+    <string name="choose_sound_file">choose sound file</string>
+    <string name="start">START</string>
+</resources>

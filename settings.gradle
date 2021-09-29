@@ -1,0 +1,2 @@
+rootProject.name = "PeakFlow_SDK_Testing"
+include ':app'
